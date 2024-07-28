@@ -11,7 +11,7 @@
 
 - 👯 I’m doing a single project from enterprise-level experience. [Hospital Management System](https://github.com/naimulislamshakil/hms_system)
 
-- 👨‍💻 All of my projects are available at [https://naimulislam.me/](https://naimulislam.me/)
+- 👨‍💻 All of my projects are available at [https://naimulislamshakil.me/](https://naimulislamshakil.me/)
 
 - 💬 Ask me about **Javascript, Typescript, React, Redux, Node, Express, MongoDB,**
 
