@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Md. Naimul Islam</h1>
 
 <h3 align="center">
@@ -306,4 +305,3 @@ A multi-tenant school management platform for managing schools, students, attend
 <p align="center">
   ⭐ Feel free to explore my repositories and give them a star if you find them useful.
 </p>
-```
