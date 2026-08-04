@@ -1,39 +1,309 @@
-<h1 align="center">Hi 👋, I'm Naimul Islam</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh.</h3>
+```md
+<h1 align="center">Hi 👋, I'm Md. Naimul Islam</h1>
 
-<img align="right" alt="codding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+<h3 align="center">
+Full-Stack Software Engineer | Next.js • Laravel • NestJS • TypeScript
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimulislamshakil&label=Profile%20views&color=0e75b6&style=flat" alt="naimulislamshakil" /> </p>
-
-- 🔭 I’m currently studying Computer Science at UI International University. And work some freelancing project. [Turbocarguy](https://turbocarguy.com/)
-
-- 🌱 I’m currently learning **Digital Marketing, Data structures and algorithms (DSA), Project Management**
-
-- 👯 I’m doing a single project from enterprise-level experience. [Hospital Management System](https://github.com/naimulislamshakil/hms_system)
-
-- 👨‍💻 All of my projects are available at [https://naimulislamshakil.me/](https://naimulislamshakil.me/)
-
-- 💬 Ask me about **Javascript, Typescript, React, Redux, Node, Express, MongoDB,**
-
-- 📫 How to reach me **naimul.islam.shakil55@gmail.com**
-
-- ⚡ Fun fact **I thunk I am funny😉.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mdnaimulislams5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdnaimulislams5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naimulislamshakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naimulislamshakil" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21312704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21312704" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100093125246802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100093125246802" height="30" width="40" /></a>
-<a href="https://www.behance.net/naimul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="naimul-islam" height="30" width="40" /></a>
-<a href="https://discord.gg/#8231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8231" height="30" width="40" /></a>
+<p align="center">
+I build scalable web applications, REST APIs, multi-vendor platforms, and enterprise SaaS products.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naimulislamshakil&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimulislamshakil&show_icons=true&locale=en&layout=compact" alt="naimulislamshakil" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimulislamshakil&show_icons=true&locale=en" alt="naimulislamshakil" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimulislamshakil&" alt="naimulislamshakil" /></p>
+- 💼 Full-Stack Software Engineer from Bangladesh
+
+- 🔭 Currently building a **Multi-Vendor E-Commerce Platform** and a **School Management SaaS System**
+
+- 🌱 Currently learning **System Design, Golang, Data Structures & Algorithms (DSA), Microservices, and DevOps**
+
+- 🚀 Interested in building scalable SaaS applications, REST APIs, and enterprise-level systems
+
+- 💡 Passionate about backend architecture, database design, and modern frontend development
+
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Redux Toolkit, Node.js, NestJS, Laravel, PostgreSQL, MongoDB, Redis, and Docker**
+
+- 👨‍💻 My projects are available at [https://naimulislamshakil.me](https://naimulislamshakil.me)
+
+- 📫 Reach me at **naimul.islam.shakil55@gmail.com**
+
+- ⚡ Fun fact: **I think I am funny 😉**
+
+---
+
+## 🛠️ Languages and Tools
+
+### Frontend Development
+
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="45" height="45"/>
+  </a>
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="45" height="45"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="45" height="45"/>
+  </a>
+
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux Toolkit" width="45" height="45"/>
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45"/>
+  </a>
+
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45"/>
+  </a>
+</p>
+
+### Backend Development
+
+<p align="left">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="45" height="45"/>
+  </a>
+
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="45" height="45"/>
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/>
+  </a>
+
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45"/>
+  </a>
+
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=go" alt="Golang" width="45" height="45"/>
+  </a>
+</p>
+
+### Databases and Search
+
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/>
+  </a>
+
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" width="45" height="45"/>
+  </a>
+</p>
+
+### DevOps and Tools
+
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
+  </a>
+
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" height="45"/>
+  </a>
+
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="45" height="45"/>
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Current Projects
+
+### 🛒 Multi-Vendor E-Commerce Platform
+
+A scalable e-commerce platform where multiple vendors can manage their products, orders, customers, payments, and store information.
+
+**Technologies:**
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+- Laravel REST API
+- PostgreSQL
+- Redis
+- Cloud Storage
+
+### 🏫 School Management SaaS System
+
+A multi-tenant school management platform for managing schools, students, attendance, subscriptions, academic information, RFID devices, and administrative operations.
+
+**Technologies:**
+
+- Next.js
+- NestJS
+- TypeScript
+- PostgreSQL
+- Redis
+- Elasticsearch
+- Docker
+- Nginx
+- Cloudflare
+
+---
+
+## 🎯 Current Learning Goals
+
+- Data Structures and Algorithms
+- System Design
+- Golang
+- Microservices Architecture
+- Docker and DevOps
+- CI/CD Pipelines
+- Scalable Database Design
+- Backend Performance Optimization
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/naimulislamshakil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
+  </a>
+
+  <a href="https://github.com/naimulislamshakil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45"/>
+  </a>
+
+  <a href="mailto:naimul.islam.shakil55@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45"/>
+  </a>
+
+  <a href="https://twitter.com/mdnaimulislams5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45"/>
+  </a>
+
+  <a href="https://stackoverflow.com/users/21312704" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" height="45"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=naimulislamshakil&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Naimul Islam GitHub Statistics"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=naimulislamshakil&theme=tokyonight&hide_border=true"
+    alt="Naimul Islam GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimulislamshakil&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=naimulislamshakil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Profile Trophy"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=naimulislamshakil&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+---
+
+## 💭 Developer Quote
+
+> Code is not only written to make software work. It should solve real-world problems, remain maintainable, and scale with the business.
+
+<p align="center">
+  <strong>Thanks for visiting my GitHub profile! 😊</strong>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and give them a star if you find them useful.
+</p>
+```
